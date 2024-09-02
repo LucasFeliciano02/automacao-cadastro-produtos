@@ -39,9 +39,9 @@
 ## :sparkles: Funcionalidades ##
 
 
-:heavy_check_mark: Lê dados .txt contendo produto, quantidade e preço ;\
-:heavy_check_mark: Extrai produtos e seri no sistema através de uma iteração no arquivo txt.
-
+:heavy_check_mark: Lê dados .txt contendo produto, quantidade e preço;\
+:heavy_check_mark: Extrai produtos e o insere no sistema através de uma iteração no arquivo txt;\
+:heavy_check_mark: Agiliza processos manuais 
 
 ## :rocket: Tecnologias ##
  
